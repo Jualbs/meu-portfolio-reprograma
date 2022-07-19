@@ -5,7 +5,7 @@ const projects = [
     gif: "/src/images/m-de-maravilhosa.gif",
     description:
       "Site desenvolvido em HTML, CSS e Responsividade",
-    link: "https://m-de-maravilhosa-patricia-magalhaes.netlify.app/",
+    link: "https://m-de-maravilhosa-julianaalbuquerque.netlify.app/",
   },
   {
     id: 2,
